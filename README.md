@@ -2,6 +2,7 @@
 
 - ⚡ The languages I have learned: HTML, CSS, Sass
 - 🌱 I’m currently learning JavaScript and Python
+- 💬 I'm looking for a job
 
 
 
