@@ -1,7 +1,7 @@
 ### Hi there 👋 take a look around...
 
-- ⚡ The languages I have learned: HTML, CSS, Sass
-- 🌱 I’m currently learning JavaScript and Python
+- ⚡ The languages I have learned: HTML, CSS, JS
+- 🌱 I’m currently learning React 
 - 💬 I'm looking for a job
 
 
